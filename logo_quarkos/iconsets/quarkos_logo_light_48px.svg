@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg62"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   sodipodi:docname="quarkos_logo_48px.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="quarkos_logo_48px.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="56.65693"
+     inkscape:cy="38.006989"
+     inkscape:window-width="1470"
+     inkscape:window-height="818"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g68" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g68">
+    <ellipse
+       style="fill:#b0cae8;fill-opacity:1;stroke:#2f639f;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path282"
+       cx="24.000231"
+       cy="16.514196"
+       rx="10.43595"
+       ry="10.514196" />
+    <ellipse
+       style="fill:#e6b2b5;fill-opacity:1;stroke:#9d3139;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path282-5"
+       cx="15.435573"
+       cy="31.486374"
+       rx="10.43595"
+       ry="10.514196" />
+    <ellipse
+       style="fill:#7cd4a2;fill-opacity:1;stroke:#2a7e4e;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path282-0"
+       cx="32.564426"
+       cy="31.486374"
+       rx="10.43595"
+       ry="10.514196" />
+  </g>
+</svg>
