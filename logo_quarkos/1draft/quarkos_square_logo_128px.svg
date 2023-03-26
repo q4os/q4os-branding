@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg62"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="quarkos_square_logo_128px.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs66">
+    <linearGradient
+       id="linearGradient1697"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#8f2200;stop-opacity:1;"
+         offset="0"
+         id="stop1695" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1658"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ff5722;stop-opacity:1;"
+         offset="0"
+         id="stop1654" />
+      <stop
+         style="stop-color:#ff5722;stop-opacity:0;"
+         offset="1"
+         id="stop1656" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5205"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#2a7e4e;stop-opacity:1;"
+         offset="0"
+         id="stop5201" />
+      <stop
+         style="stop-color:#2f639f;stop-opacity:1;"
+         offset="0.50482315"
+         id="stop5209" />
+      <stop
+         style="stop-color:#9d3139;stop-opacity:1;"
+         offset="1"
+         id="stop5203" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5205"
+       id="linearGradient1662"
+       gradientUnits="userSpaceOnUse"
+       x1="12"
+       y1="64"
+       x2="116"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5205"
+       id="linearGradient1699"
+       x1="12"
+       y1="64"
+       x2="116"
+       y2="64"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="45.431611"
+     inkscape:cy="78.1353"
+     inkscape:window-width="1470"
+     inkscape:window-height="920"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g68" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g68">
+    <rect
+       style="fill:url(#linearGradient1662);fill-opacity:1;stroke:url(#linearGradient1699);stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect1574"
+       width="104"
+       height="104"
+       x="12.000001"
+       y="12.000001"
+       ry="21" />
+    <ellipse
+       style="fill:#b0cae8;fill-opacity:1;stroke:#2f639f;stroke-width:1.34505;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path282"
+       cx="64.000404"
+       cy="48.263813"
+       rx="18.854353"
+       ry="18.59129" />
+    <ellipse
+       style="fill:#e6b2b5;fill-opacity:1;stroke:#9d3139;stroke-width:1.34505;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path282-5"
+       cx="48.526878"
+       cy="74.737747"
+       rx="18.854353"
+       ry="18.59129" />
+    <ellipse
+       style="fill:#7cd4a2;fill-opacity:1;stroke:#2a7e4e;stroke-width:1.34505;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path282-0"
+       cx="79.473106"
+       cy="74.737747"
+       rx="18.854353"
+       ry="18.59129" />
+  </g>
+</svg>
